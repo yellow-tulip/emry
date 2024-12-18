@@ -10,9 +10,8 @@ const kawaiiFaces = [
 const textSets = {
   first: {
     main: [
-      'emry g is a multidisciplinary artist',
-      'capturing the tender disquiet',
-      'through intimate electronic soundscapes'
+      'emry g is',
+      'a multidisciplinary artist'
     ],
     secondary: 'contact me ⤳ emrygorder (at) proton (dot) me'
   },
