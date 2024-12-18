@@ -105,7 +105,7 @@ export const HomePage = () => {
           }}
         >
           <source 
-            src="/videos/homemovie.mp4"
+            src="https://7fe5987958bc81b9670fdb584bccf58c.r2.cloudflarestorage.com/portfolio/videos/homemovie.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
