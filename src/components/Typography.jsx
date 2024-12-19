@@ -11,6 +11,7 @@ const textSets = {
   first: {
     main: [
       'emry g is',
+      'a filipino-american',
       'a multidisciplinary artist'
     ],
     secondary: 'contact me ⤳ emrygorder (at) proton (dot) me'
