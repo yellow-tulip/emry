@@ -3,21 +3,21 @@ import { getAssetUrl } from '../../utils/constants';
 
 // Static images arranged in order shown, 3 per row
 const imageFiles = [
-  'cigratte.jpg',      // Row 1
-  'sky.jpg',
-  'glow.jpg',
-  'trainseat.jpg',     // Row 2
-  'thedock.jpg',
-  'snowhill.jpg',
-  'ladyinthetrain.jpg', // Row 3
-  'darkness fire july4.jpg',
-  'cecilia.jpg',
-  'trainppl.jpg',      // Row 4
-  'IMG_3822.png',
-  'IMG_3829.png',
-  'snowprints-2.jpg',  // Row 5
-  'IMG_0138.jpg',
-  'blankets.jpg'
+  '1.jpg',      // Row 1
+  '2.jpg',
+  '3.jpg',
+  '4.jpg',     // Row 2
+  '5.jpg',
+  '6.jpg',
+  '7.jpg', // Row 3
+  '8.jpg',
+  '9.jpg',
+  '10.jpg',      // Row 4
+  '11.png',
+  '12.png',
+  '13.jpg',  // Row 5
+  '14.jpg',
+  '15.jpg'
 ];
 
 // Sketch images - including both existing and new ones

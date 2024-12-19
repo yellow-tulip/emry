@@ -300,8 +300,8 @@ export const Typography = () => {
         </div>
       </div>
       <DraggableImage
-        src={currentSet === 'first' ? '/images/me/emrygorder.jpeg' : '/images/me/img_4434.jpeg'}
-        alt={currentSet === 'first' ? 'Emry portrait 1' : 'Emry portrait 2'}
+        src={currentSet === 'first' ? '/images/me/emrygorderv1.jpeg' : '/images/me/emrygorderv2.jpeg'}
+        alt={currentSet === 'first' ? 'emry portrait 1' : 'emry portrait 2'}
         className="draggable-container"
       />
  
