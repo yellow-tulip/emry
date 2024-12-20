@@ -30,7 +30,13 @@ const sketchFiles = [
   'sketchbook5.png',
   'sketchbook6.png',
   'sketchbook5.jpg',
-  // New sketches
+  'sketch7.jpg',
+  'sketch8.jpg',
+  'sketch9.jpg',
+  'sketch10.jpg',
+  'sketch11.jpg',
+  'sketch12.jpg',
+
 ];
 
 const loadImage = (src, priority = false) => {
