@@ -31,8 +31,8 @@ const sketchFiles = [
   'sketchbook6.png',
   'sketchbook5.jpg',
   'sketch7.jpg',
-  'sketch8.jpg',
-  'sketch9.jpg',
+  'sketch8.png',
+  'sketch9.png',
 
 ];
 
