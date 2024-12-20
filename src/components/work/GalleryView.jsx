@@ -47,7 +47,7 @@ export const GalleryView = ({ images = [] }) => {
                 position: 'absolute'
               }}
             >
-              <div className="image-wrapper">
+              <div className="image-wrapper hoverable">
                 <img
                   src={image.src}
                   alt={image.alt}
@@ -62,6 +62,16 @@ export const GalleryView = ({ images = [] }) => {
           );
         })}
       </div>
+      <style>{`
+        .hoverable {
+          transition: opacity 0.3s ease;
+        }
+        .hoverable:hover {
+          opacity: 0.75;
+          transition: opacity 0.3s ease;
+          cursor: pointer;
+        }
+      `}</style>
     </div>
   );
 };
