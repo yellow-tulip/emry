@@ -33,9 +33,6 @@ const sketchFiles = [
   'sketch7.jpg',
   'sketch8.jpg',
   'sketch9.jpg',
-  'sketch10.jpg',
-  'sketch11.jpg',
-  'sketch12.jpg',
 
 ];
 
